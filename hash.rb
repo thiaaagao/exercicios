@@ -6,4 +6,5 @@ alunos = [{nome: "Alberto", nota: 7, disciplina: "Matemática"}, {nome: "Ingrid"
 puts "#{alunos[0][:nome]}" + " tirou nota " + "#{alunos[0][:nota]}" + " em " "#{alunos[0][:disciplina]}"
 puts "#{alunos[1][:nome]}" + " tirou nota " + "#{alunos[1][:nota]}" + " em " "#{alunos[1][:disciplina]}"
 puts "#{alunos[2][:nome]}" + " tirou nota " + "#{alunos[2][:nota]}" + " em " "#{alunos[2][:disciplina]}"
-puts "#{alunos[3][:nome]}" + " tirou nota " + "#{alunos[3][:nota]}" + " em " "#{alunos[3][:disciplina]}"
+puts "#{alunos[3][:nome]}" + " tirou nota " + "#{alunos[3][:nota]}" + " em " "#{alunos[3][:disciplina]}" 
+# Encadeando chamadas de arrays no hash.
