@@ -4,7 +4,9 @@ Soluções de Exercícios feitas em Ruby durante a aprendizagem do conteúdo dis
 ## Stack utilizada
 
 **Logica:** Ruby
+
 **Tecnologias:** Wsl (Ubuntu 22.04)
+
 **Conteúdos aprendidos:** Condicionais, Arrays, Hash, Symbols.
 
 ## Autores
