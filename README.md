@@ -3,8 +3,9 @@
 Soluções de Exercícios feitas em Ruby durante a aprendizagem do conteúdo disponível de forma gratuita para estudar antes do teste de aptidão da Turma 10 do programa da TreinaDev + Campus Code
 ## Stack utilizada
 
-**Logica:** Ruby + Wsl (Ubuntu 22.04)
-
+**Logica:** Ruby
+**Tecnologias:** Wsl (Ubuntu 22.04)
+**Conteúdos aprendidos:** Condicionais, Arrays, Hash, Symbols.
 
 ## Autores
 
