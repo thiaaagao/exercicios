@@ -13,7 +13,7 @@ puts ("Digite o nome da disciplina referente a nota: ")
 disciplina = gets.chomp
 
 if nota < 5
-    puts ("#{nome} foi reprovado(a) em #{disciplina}")
+    puts ("#{nome.capitalize} foi reprovado(a) em #{disciplina.capitalize}")
 else
-    puts ("#{nome} foi aprovado(a) em #{disciplina}")
+    puts ("#{nome.capitalize} foi aprovado(a) em #{disciplina.capitalize}")
 end
