@@ -8,3 +8,5 @@ puts "#{alunos[1][:nome]}" + " tirou nota " + "#{alunos[1][:nota]}" + " em " "#{
 puts "#{alunos[2][:nome]}" + " tirou nota " + "#{alunos[2][:nota]}" + " em " "#{alunos[2][:disciplina]}"
 puts "#{alunos[3][:nome]}" + " tirou nota " + "#{alunos[3][:nota]}" + " em " "#{alunos[3][:disciplina]}" 
 # Encadeando chamadas de arrays no hash.
+
+
